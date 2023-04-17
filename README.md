@@ -1,5 +1,5 @@
 # Deep-Object-Damage-Analysis
-Intelligent Vehicle Damage Assessment & Cost Estimator for Insurance Companies 🙂
+Intelligent Vehicle Damage Assessment & Cost Estimator for Insurance Companies 
 Description
 
 Nowadays, a lot of money is being wasted in the car insurance business due to leakage claims. Claims leakage Underwriting leakage is characterized as the discrepancy between the actual payment of claims made and the sum that should have been paid if all of the industry's leading practices were applied. Visual examination and testing have been used to may these results. However, they impose delays in the processing of claims.
@@ -8,12 +8,12 @@ The aim of this project is to build a VGG16 model that can detect the area of da
 
 Presentation1 (1)_page-0001
 
-Assignment 😇
+Assignment 
  Assignment 1
  Assignment 2
  Assignment 3
  Assignment 4
-PROJECT DESIGN & PLANNING 😇
+PROJECT DESIGN & PLANNING 
 Ideation Phase
 
  Empathy Map
